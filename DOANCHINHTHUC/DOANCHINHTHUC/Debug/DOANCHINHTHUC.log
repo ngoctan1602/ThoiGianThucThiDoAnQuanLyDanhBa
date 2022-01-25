@@ -1,0 +1,11 @@
+﻿  DOANCHINHTHUC.cpp
+D:\DoAnCauTrucDuLieu\DOANCHINHTHUC\DOANCHINHTHUC\DOANCHINHTHUC.cpp(28,23): warning C4018: '<': signed/unsigned mismatch
+D:\DoAnCauTrucDuLieu\DOANCHINHTHUC\DOANCHINHTHUC\DOANCHINHTHUC.cpp(37,12): warning C4101: 'rand_int': unreferenced local variable
+D:\DoAnCauTrucDuLieu\DOANCHINHTHUC\DOANCHINHTHUC\DOANCHINHTHUC.cpp(48,12): warning C4101: 'rand_int': unreferenced local variable
+D:\DoAnCauTrucDuLieu\DOANCHINHTHUC\DOANCHINHTHUC\DOANCHINHTHUC.cpp(56,12): warning C4101: 'rand_int': unreferenced local variable
+D:\DoAnCauTrucDuLieu\DOANCHINHTHUC\DOANCHINHTHUC\DOANCHINHTHUC.cpp(184,9): warning C4018: '<': signed/unsigned mismatch
+D:\DoAnCauTrucDuLieu\DOANCHINHTHUC\DOANCHINHTHUC\DOANCHINHTHUC.cpp(194,11): warning C4018: '<': signed/unsigned mismatch
+D:\DoAnCauTrucDuLieu\DOANCHINHTHUC\DOANCHINHTHUC\DOANCHINHTHUC.cpp(398,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\DoAnCauTrucDuLieu\DOANCHINHTHUC\DOANCHINHTHUC\DOANCHINHTHUC.cpp(586,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\DoAnCauTrucDuLieu\DOANCHINHTHUC\DOANCHINHTHUC\DOANCHINHTHUC.cpp(234): warning C4715: 'searchDB_sdt': not all control paths return a value
+  DOANCHINHTHUC.vcxproj -> D:\DoAnCauTrucDuLieu\DOANCHINHTHUC\Debug\DOANCHINHTHUC.exe
